@@ -1,0 +1,8 @@
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/CMakeFiles/edit_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/CMakeFiles/rebuild_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/CMakeFiles/_dlib_pybind11.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/pybind11_build/CMakeFiles/rebuild_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/pybind11_build/CMakeFiles/edit_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/dlib_build/CMakeFiles/edit_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/dlib_build/CMakeFiles/dlib.dir

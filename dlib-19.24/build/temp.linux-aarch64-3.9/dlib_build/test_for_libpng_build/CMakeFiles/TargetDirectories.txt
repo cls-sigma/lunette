@@ -1,0 +1,3 @@
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/dlib_build/test_for_libpng_build/CMakeFiles/rebuild_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/dlib_build/test_for_libpng_build/CMakeFiles/edit_cache.dir
+/home/pi/final/dlib-19.24/build/temp.linux-aarch64-3.9/dlib_build/test_for_libpng_build/CMakeFiles/libpng_test.dir
